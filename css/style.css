@@ -25,5 +25,26 @@ body{
     max-width: 100%;
     box-sizing: border-box;
     text-align: center;
+    color: #564848
 }
 
+/*Content*/
+.content{
+    margin-bottom: 160px;
+    padding-bottom: 15px;
+  
+}
+
+.content-title{
+    margin: 0 0 5px;
+    font-size: 18px;
+    color: #0d448e;
+}
+
+.content-title2{
+    font-size: 12px;
+    color: #898787;
+}
+p img{
+    padding: 10px;
+}
