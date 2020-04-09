@@ -48,3 +48,11 @@ body{
 p img{
     padding: 10px;
 }
+.reklam{
+    text-align: center
+}
+.footer{
+    padding: 10px;
+    text-align: center;
+    background: #f18721;
+}
